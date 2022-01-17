@@ -2,7 +2,7 @@
 
 - Colocar o projeto na pasta do XAMPP
 - Criar o banco em localhost/phpmyadmin a partir do arquivo ezoom_backend.sql
-- Abrir projeto no browser em: http://localhost/ezoom_backend/admin
+- Abrir projeto no browser em: http://localhost/backend-challenge-pleno/admin
 - username: admin
 - password: admin
 
